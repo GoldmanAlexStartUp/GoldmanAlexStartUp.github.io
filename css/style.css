@@ -1,0 +1,74 @@
+    
+/* HEADER */
+
+.navbar {
+    padding: 10px 15px;
+    margin-top: 40px; 
+    margin-right: -15px;
+    margin-bottom: 8px;
+    margin-left: -15px;
+}
+
+.headtext,
+.fa,
+.footertext {
+    color: #ffffff;
+}
+
+.firststep {
+    height: 80vh;
+}
+
+.welcome {
+    font-size: 16vh;
+    color: #ffffff;
+}
+
+.rowhead {
+    height: 25%;   
+}
+@media screen and (max-width: 55em) {
+	.welcome  {
+		font-size: 4em;
+	}
+
+}
+
+.thirdstep {
+    line-height: 40vh;
+}
+
+.content-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* CONTENT */
+
+h3,
+h5,
+p,
+small,
+.pagetext {
+    color: #555555;
+}
+
+.aboutlook {
+    background-color: #f8f8f8;
+}
+
+.brandlook {
+    background-color: #555555;
+}
+
+.brendnames {
+    padding-top: 70px;
+}
+
+/* FOOTER */
+
+.footerlook {
+    background-color: #c0301c;
+}
+
